@@ -70,6 +70,7 @@ java bankingmanagement.Main
 6. View Transaction History
 7. Show Account Details
 8. Exit
+   
 ==============================================================
 
 ---
